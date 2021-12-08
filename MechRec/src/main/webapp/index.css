@@ -23,7 +23,7 @@ a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-    background-color: #483D8B;
+    background-color: black;
 	color: white;
 	padding: 25px;
 	font-size: 25px;
@@ -37,7 +37,7 @@ a.logIn {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-    background-color: #483D8B;
+    background-color: black;
 	color: white;
 	padding: 25px;
 	font-size: 25px;
@@ -52,7 +52,7 @@ a.logIn {
 	top: 50px;
 	left: 180px;
 	font-size: 35px;
-	color: #483D8B;
+	color: black;
 }
 
 .img-container {
@@ -67,7 +67,7 @@ a.logIn {
 }
 
 .dropbtn {
-  background-color: #483D8B;
+  background-color: black;
   color: white;
   padding: 25px;
   font-size: 25px;
@@ -104,7 +104,7 @@ a.logIn {
 .dropdown:hover .dropbtn {background-color: #ff2600;}
 
 .dropbtn2 {
-  background-color: #483D8B;
+  background-color: black;
   color: white;
   padding: 25px;
   font-size: 25px;
