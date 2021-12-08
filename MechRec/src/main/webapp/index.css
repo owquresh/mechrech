@@ -4,6 +4,13 @@
 	font-family: Algerian;
 }
 
+body {
+	position: relative;
+	min-width: 750px;
+	overflow: hidden;
+}
+
+
 nav {
 	padding: 120px;
 	text-align: center;
@@ -16,7 +23,7 @@ a.button {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-    background-color: black;
+    background-color: #483D8B;
 	color: white;
 	padding: 25px;
 	font-size: 25px;
@@ -30,7 +37,7 @@ a.logIn {
     -webkit-appearance: button;
     -moz-appearance: button;
     appearance: button;
-    background-color: black;
+    background-color: #483D8B;
 	color: white;
 	padding: 25px;
 	font-size: 25px;
@@ -45,6 +52,7 @@ a.logIn {
 	top: 50px;
 	left: 180px;
 	font-size: 35px;
+	color: #483D8B;
 }
 
 .img-container {
@@ -59,7 +67,7 @@ a.logIn {
 }
 
 .dropbtn {
-  background-color: black;
+  background-color: #483D8B;
   color: white;
   padding: 25px;
   font-size: 25px;
@@ -96,7 +104,7 @@ a.logIn {
 .dropdown:hover .dropbtn {background-color: #ff2600;}
 
 .dropbtn2 {
-  background-color: black;
+  background-color: #483D8B;
   color: white;
   padding: 25px;
   font-size: 25px;
@@ -131,3 +139,46 @@ a.logIn {
 .dropdown2:hover .dropdown-content2 {display: block;}
 
 .dropdown2:hover .dropbtn2 {background-color: #ff2600;}
+
+h1 {
+	font-size: 35px;
+	color: black;
+	text-align: center;
+}
+
+
+h2 {
+	font-size: 15px;
+	color: black;
+	text-align: center;
+}
+
+.column-left {
+  float: left;
+  width: 33.333%;
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold; 
+}
+
+.column-right {
+  float: right;
+  width: 33.333%;
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+  
+}
+
+.column-center {
+  display: inline-block;
+  width: 33.333%;
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+	font-weight: normal;
+	font-size: 15px;
+}
