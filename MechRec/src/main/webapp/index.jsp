@@ -46,13 +46,16 @@
 			<div class="row">
 			  <div class="column-left">Services
 			  	<p>Find services to fit your needs along with the corresponding pricing.</p>
+				  <img src="companyImg/services.jpg" id="serImg" alt ="">
 			  </div>
 			  <div class="column-center">Mechanics
 			  	<p>Compare mechanics in order to find the best one for your car maintenance.</p>
+				  <img src="companyImg/mechanic.png" id="mecImg" alt ="">
 		  	  </div>
 			  <div class="column-right">Customer Reviews
 			  	<p>Utilize customer reviews that detail specific services, pricing,
 			  	 and overall opinion of each mechanic</p>
+				  <img src="companyImg/customer_reviews.jpg" id="cusImg" alt ="">
 			  </div>
 			</div>
 		</section>
